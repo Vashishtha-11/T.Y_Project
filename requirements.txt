@@ -1,0 +1,8 @@
+yt-dlp==2025.1.26
+pydub==0.25.1
+SpeechRecognition==3.10.0
+transformers==4.46.1
+torch==2.5.1
+torchaudio==2.5.1
+streamlit==1.39.0
+googletrans==4.0.0-rc1
